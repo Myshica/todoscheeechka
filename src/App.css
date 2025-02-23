@@ -1,0 +1,20 @@
+
+* {
+    font: normal normal normal 25px/1 Arial;
+    background: #0a0a2d;
+    text-align: center;
+}
+
+.name {
+    color: white;
+    font-size: 30px;
+}
+
+
+.creator_name {
+    color: #b7e4c7;
+    font-size: 200px;
+    align-items: flex-start;
+    text-align: left;
+    display: flex;
+}

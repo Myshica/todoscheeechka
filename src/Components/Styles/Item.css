@@ -1,0 +1,61 @@
+.itemTask {
+    background: #3c096c;
+    width: 500px;
+    margin: 5px;
+    border-radius: 8px;
+}
+
+.inputTask {
+    background: #5a189a;
+    color: ghostwhite;
+    float: left;
+    margin: 4px;
+    width: 440px;
+    height: 40px;
+    text-align: center;
+    border-radius: 7px;
+    font-size: 30px;
+}
+
+
+.textTask {
+    background: #5a189a;
+    color: ghostwhite;
+    font-size: 20px;
+    border-radius: 7px;
+    outline: none;
+    border: none;
+    text-align: center;
+    margin: 5px;
+    width: 435px;
+    height: 40px;
+}
+
+
+.buttonAction {
+    background: transparent;
+    width: 32px;
+    height: 32px;
+    border: none;
+    margin-top: 10px;
+    margin-right: 4px;
+    margin-left: 2px;
+}
+
+.deleteTask {
+    background: url("./Assets/Icons/delete.png") no-repeat;
+    background-position: center;
+    background-size: cover;
+    float: right;
+}
+
+
+.deleteTask:hover {
+    opacity: 0.9;
+}
+
+.deleteTask:active {
+    opacity: 0.7;
+}
+
+
